@@ -2,7 +2,7 @@
 
 # Results
 
-<img src="premodel3d.png" width="300"> <img src="postmodel3d.png" width="300">
+<img src="premodel3d.png" width="500"> <img src="postmodel3d.png" width="500">
 
 
 * The top German politicians don't have a party-specific style when they're campaigning for elections
