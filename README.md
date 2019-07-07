@@ -6,6 +6,6 @@
 * Sources
 
 <p align="center">
-<img src="https://github.com/clarahoffmann/SOM/blob/master/postmodel3d.pdf" />
+<img src="https://github.com/clarahoffmann/SOM/blob/master/postmodel3d.png" />
 </p>
 
