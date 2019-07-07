@@ -2,9 +2,8 @@
 
 # Results
 
-<p align="center">
-<img src="https://github.com/clarahoffmann/SOM/blob/master/postmodel3d.png" />
-</p>
+<img src="premodel3d.png" width="300"> <img src="postmodel3d.png" width="300">
+
 
 * The top German politicians don't have a party-specific style when they're campaigning for elections
 * After the election some winning parties (CDU \& AfD) exhibit similar tweet styles. They align in a cluster together.
