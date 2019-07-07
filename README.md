@@ -2,12 +2,11 @@
 
 # Results
 
-<img src="premodel3d.png" width="400"> <img src="postmodel3d.png" width="400">
-
-
 * The top German politicians don't have a party-specific style when they're campaigning for elections
 * After the election some winning parties (CDU \& AfD) exhibit similar tweet styles. They align in a cluster together.
 * The members of the SPD strongly change their tweeting style after their bad election result. They decluster with other parties.
+
+<img src="premodel3d.png" width="400"> <img src="postmodel3d.png" width="400">
 
 # Algorithm
 The algorithm described by Kohonen (1990) works as follows:
