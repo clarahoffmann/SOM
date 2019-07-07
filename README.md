@@ -56,3 +56,4 @@ For a mexican hat neighborhood function we found it quite difficult to find clus
 Cybernetics (1982)
 * Minisom package for python with a range of tuning parameter options and examples https://github.com/JustGlowing/minisom
 * Parameter options: http://www.cis.hut.fi/somtoolbox/documentation/somalg.shtml
+* Doc2Vec model for numeric representation of facebook posts from German politicians: https://humboldt-wi.github.io/blog/research/information_systems_1718/04topicmodels/
