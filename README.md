@@ -25,3 +25,21 @@ The algorithm described by Kohonen (1990) works as follows:
 The learning rate in the neighborhood function determines how much the position of neurons change iteration and decreases with time. 
 
 5. Start again with 1. until you reached the desired amount of iterations. 
+
+# Tuning Parameters of the model
+
+An SOM possesses 7 tuning parameters:
+
+1. Number of neurons: The larger the better. Our choice is 30x30 neurons. Alternatively use a growing SOM (GSOM).
+
+2. Dimension of grid: No clear rule. If a lot is known about the data distribution, the dimension can be adjusted to follow the distribution more closely. This speeds up the training process.
+
+3. Grid shape: Hexagonal or rectangular. If the data distribution is known, also a more specific shape is possible (circle, ring etc.).
+
+4. Initial position of grid in space: span subspace by the first to d-th principal components (= eigenvectors corresponding to the d largest eigenvalues), initialize weights randomly or by sample points. The initializiation with principal components is supposed to speed up computation
+
+5. Neighborhood function: Typically a Gaussian common choice, radial, triangle, bubble, etc. The most simple choice is a function that only updates the n closest neurons of the BMU
+
+6. Learning rate: Typically decreases with time (lineary, logarithmic, etc.) 
+
+7. Distance measure: The most common distance measure is the Euclidean distance. However, also other measures could be used (Jaccard, Manhattan, etc.)
