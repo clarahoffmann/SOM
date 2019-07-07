@@ -46,7 +46,7 @@ An SOM possesses 7 tuning parameters:
 
 Alternative calibration with bubble neighborhood function and learning rate = 0.25
 
-<img src="premodel3d_bubble.png" width="300"> <img src="postmodel3d_bubble.png" width="300">
+<img src="premodel3d_bubble.png" width="400"> <img src="postmodel3d_bubble.png" width="400">
 
 Cluster formation becomes more quadratic but our results from before still hold.
 For a mexican hat neighborhood function we found it quite difficult to find clusters at all. This is because a mexican hat neighborhood function skips some neurons in the neighborhood of the BMU and excites neurons that are 'behind' them. This does not really have any justification in our context.
