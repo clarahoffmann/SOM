@@ -48,8 +48,7 @@ An SOM possesses 7 tuning parameters:
 
 Alternative calibration with bubble neighborhood function and learning rate = 0.25
 
-<img src="premodel3d_bubble.png" width="300"> 
-<img src="postmodel3d_bubble.png" width="300">
+<img src="premodel3d_bubble.png" width="300"> <img src="postmodel3d_bubble.png" width="300">
 
 Cluster formation becomes more quadratic but our results from before still hold.
 
