@@ -44,6 +44,15 @@ An SOM possesses 7 tuning parameters:
 
 7. Distance measure: The most common distance measure is the Euclidean distance. However, also other measures could be used (Jaccard, Manhattan, etc.)
 
+# Robustness to Change in Parameters
+
+Alternative calibration with bubble neighborhood function and learning rate = 0.25
+
+<img src="premodel3d_bubble.png.png" width="250"> <img src="GP_1D/gpnoerror_opt.jpg" width="250"> 
+
+<img src="postmodel3d_bubble.png" width="250"><img src="GP_1D/gperror_opt.jpg" width="250">
+
+Cluster formation becomes more quadratic but our results from before still hold.
 
 # Useful Resources
 * on model parameters: 
