@@ -43,3 +43,8 @@ An SOM possesses 7 tuning parameters:
 6. Learning rate: Typically decreases with time (lineary, logarithmic, etc.) 
 
 7. Distance measure: The most common distance measure is the Euclidean distance. However, also other measures could be used (Jaccard, Manhattan, etc.)
+
+
+# Useful Resources
+* on model parameters: 
+* Minisom package for python with a range of tuning parameter options and examples https://github.com/JustGlowing/minisom
