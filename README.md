@@ -6,6 +6,6 @@
 * Sources
 
 <p align="center">
-<img src="https://github.com/clarahoffmann/SOM/blob/master/postmodel3d.pdf" alt='Convergence of Numerical Differentiation Methods'/>
+<img src="https://github.com/clarahoffmann/SOM/blob/master/postmodel3d.pdf" />
 </p>
 
