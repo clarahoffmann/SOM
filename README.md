@@ -52,5 +52,7 @@ Cluster formation becomes more quadratic but our results from before still hold.
 For a mexican hat neighborhood function we found it quite difficult to find clusters at all. This is because a mexican hat neighborhood function skips some neurons in the neighborhood of the BMU and excites neurons that are 'behind' them. This does not really have any justification in our context.
 
 # Useful Resources
-* on model parameters: 
+* Original SOM: Teuvo Kohonen, Self-Organized Formation of Topologically Correct Feature Maps. Biological
+Cybernetics (1982)
 * Minisom package for python with a range of tuning parameter options and examples https://github.com/JustGlowing/minisom
+* Parameter options: http://www.cis.hut.fi/somtoolbox/documentation/somalg.shtml
